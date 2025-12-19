@@ -4,4 +4,4 @@ Found here are the codes, input files, supplemental files, etc. related to our v
 
 Questions can be addressed to:
 PI: Dr. Rajib Saha
-email: rsaha2@unl.edu
+email: rsaha2@nebraska.edu
